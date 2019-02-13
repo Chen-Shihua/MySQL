@@ -1,0 +1,3 @@
+﻿  MySQL.cpp
+c:\github\0.myproject\mysql\mysql.cpp(79): warning C4244: “初始化”: 从“my_ulonglong”转换到“unsigned int”，可能丢失数据
+  MySQL.vcxproj -> C:\GitHub\0.MyProject\MySQL\x64\Debug\MySQL.exe
